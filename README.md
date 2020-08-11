@@ -12,7 +12,6 @@
 - Atmega128A
 
 ## 💻Intrested
-- 최승호
 - IoT
 - Drone
 - Robot
