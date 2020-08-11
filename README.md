@@ -4,16 +4,16 @@
 
 ## 📏Language
 - C
-- Python
+- Python🦏
 
 ## 🧩Board
-- Arduino
-- Raspberrypi
+- Arduino🤥
+- Raspberrypi🌍
 - Atmega128A
 
 ## 💻Intrested
-- IoT
-- Drone
+- IoT👀
+- Drone🐳
 - Robot
 
 
