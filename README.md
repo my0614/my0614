@@ -7,6 +7,8 @@
 - Python🦏
 - HTML,CSS
 - C++
+- Flask
+- mongoDB
 
 ## 🧩Board
 - Arduino
@@ -14,6 +16,8 @@
 - Atmega128A
 
 ## 💻Intrested
+- DataScience😲
+- ML,DL
 - IoT👀
 - Drone
 - Robot
