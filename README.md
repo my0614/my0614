@@ -1,26 +1,25 @@
-## 👏안녕하세요
-대덕소프트웨어고등학교를 다니는**💜김민영💜**입니다. 
-지금까지 배운 공부와 경험한 프로젝트를 정리하는 계정입니다 🌹
 
-## 📏Language
-- C
-- Python🦏
-- HTML,CSS
-- C++
-- Flask
-- mongoDB
+**안녕하세요**</br>
+**ML 모델링 · MLOps 엔지니어 김민영입니다.**
 
-## 🧩Board
-- Arduino
-- Raspberrypi🌍
-- Atmega128A
+Phone : 010 - 3957 -5034 </br>
+Email : premierckim@gmail.com </br>
+Github : https://github.com/my0614
 
-## 💻Intrested
-- DataScience😲
-- ML,DL
-- IoT👀
-- Drone
-- Robot
+## SKILL🦾
+
+- **Languages** </br>
+Python, C
+- **Frameworks & Libraries** </br>
+PyTorch, ROS, OpenCV, Flask
+- **Databases** </br>
+PostgreSQL
+- **CI/CD** </br>
+Docker, Kubernetes
+- **Tools** </br>
+Git, Bitbucket, Jira
+- **ML Tools** </br>
+Label Studio, MLflow
 
 
 
